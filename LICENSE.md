@@ -264,7 +264,7 @@ distributed.
 Any other code not covered above is released under the ISC license.
 
 ```text
-Copyright © 2021 by Jeffrey H. Johnson <trnsz@pobox.com>
+Copyright © 2021 by Jeffrey H. Johnson <johnsonjh.dev@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above

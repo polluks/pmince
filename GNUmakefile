@@ -5,7 +5,7 @@
 # For most systems, no configuration should be needed.  If you encounter any
 # problems with any supported configuration, please report the bug at GitHub
 # https://github.com/johnsonjh/pmince/issues/new/choose or send an e-mail to
-# the maintainer, Jeffrey H. Johnson, at trnsz@pobox.com. PGP mail accepted.
+# the maintainer, Jeffrey H. Johnson at johnsonjh.dev@gmail.com; PGP mail OK.
 
 # For all supported platform types, running make (or gmake) should just work.
 # There are some excpetions, such as Windows + Cygwin; see below for details.

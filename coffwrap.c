@@ -6,7 +6,7 @@
 /*
  * The MIT License (MIT)
  *
- * Copyright (C) 2021 Jeffrey H. Johnson <trnsz@pobox.com>
+ * Copyright (C) 2021 Jeffrey H. Johnson
  * Copyright (C) 2015 Ondrej Novak
  *
  * Permission is hereby granted, free of charge, to any person

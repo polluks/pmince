@@ -134,7 +134,7 @@
 ## Original Authors
 
 - **Portable MINCE**: Copyright © 2021 _Jeffrey H. Johnson_
-  \<[trnsz@pobox.com](mailto:trnsz@pobox.com)\>
+  \<[johnsonjh.dev@gmail.com](mailto:johnsonjh.dev@gmail.com)\>
 - **MINCE**: Copyright © 1980—1985 by **Mark of the Unicorn, Inc.**
 - **DIFF**: Copyright © 1981 by **Mark of the Unicorn, Inc.**
 - **Scribble**, **Pencil**, **Crayon**: Copyright © 1981 by **Mark of the
